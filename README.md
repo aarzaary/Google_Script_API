@@ -6,3 +6,13 @@
 5. Edit according to your needs
 6. Click Deploy > New deployment > Click Gear Icon > Select Web App > Edit Who has access to Anyone > Click Deploy
 7. Copy your web app URL
+
+## Sample Code
+![sample_code](sample_code.png)
+
+## Sample Result
+![sample_result](sample_result.png)
+
+## Notes
+- Don't forget to Redeploy after you change the code
+- Click Deploy > Manage deployments > Click Pen Icon > in Version Select `New version` > Click Deploy
